@@ -80,3 +80,8 @@ DerivedDataCache/*
 
 # Ignore starter content
 Content/StarterContent/*
+
+# Ignore non-free content
+Content/Planet_Creator_1/*
+Content/Planet_Creator_2/*
+Content/Star_Creator/*
