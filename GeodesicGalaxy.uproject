@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1F7F5FB2-4346-48B4-2ADE-12A6B72F5E33}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GeodesicGalaxy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
