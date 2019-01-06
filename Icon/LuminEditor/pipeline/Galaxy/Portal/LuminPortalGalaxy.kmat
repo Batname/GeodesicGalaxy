@@ -1,0 +1,12 @@
+{
+  "global": {
+    "name": "global"
+  },
+  "materials": [
+    {
+      "shaderName": "UnlitTextured",
+      "name": "com_geodesic_GeodesicGalaxy_Space",
+      "albedo": "assets/Space.png/Sis7fN2GCCg/Space.png"
+    }
+  ]
+}

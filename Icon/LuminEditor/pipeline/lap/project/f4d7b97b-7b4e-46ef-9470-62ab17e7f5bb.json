@@ -1,0 +1,23 @@
+{
+  "id": "f4d7b97b-7b4e-46ef-9470-62ab17e7f5bb",
+  "processor": "lap/types/processor/files_array_builder",
+  "input": {
+    "file": [
+      {
+        "path": "Galaxy/Portal/LuminPortalGalaxy.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "files": [
+      {
+        "path": "hGFnnzERaZQ/LuminPortalGalaxy.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

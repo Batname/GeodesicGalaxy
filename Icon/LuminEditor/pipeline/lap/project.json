@@ -28,7 +28,7 @@
       "lap/types/file/wav"
     ]
   },
-  "checkpoint-hash": "bad61babf35f770ab907d1850a22272ec3b1b3e20a08de8db60c4bc0550def599a2365d333131fa92c9b83e5d4c64db0abac5788932c9767814e19aa5f23942b",
+  "checkpoint-hash": "d241908bdf0733fab26233d944840e24405c8fa5739de2a80c518a27271444d01a5572b1e50ee426ba26d2005a7082e4a197ed2eddaa50ea1bd34a869bb28596",
   "templates": [
     "lap/template/converted_texture_from_bmp",
     "lap/template/converted_texture_from_tga",
@@ -1073,6 +1073,277 @@
           "source": {
             "aspect": "material",
             "node": "3f4a0a67-d8ff-4cdc-85b8-9a8a30328ccb"
+          },
+          "target": {
+            "aspect": "material"
+          }
+        }
+      ],
+      "dirty": false,
+      "exclude": true
+    },
+    "fb5811ff-d7b1-4e76-a037-2456cca69ad7": {
+      "kind": "file",
+      "comment": "PortalGalaxy.fbx",
+      "descriptor": {
+        "path": "Galaxy/Portal/PortalGalaxy.fbx",
+        "sha256": "74d0dfd7c0be894344576853b103dda5cb3912808f4b8f01ec308ab3caa4b5a2"
+      },
+      "name": "PortalGalaxy.fbx",
+      "links": []
+    },
+    "c70077c4-15cd-4cb6-8222-d9763e36b5cd": {
+      "kind": "processor",
+      "comment": "Passthru PortalGalaxy.fbx to model.",
+      "expectedRuntime": 0.2488235,
+      "systemWeights": {
+        "cpuCoreCount": 1.0,
+        "cpuPct": 1.0,
+        "gpuPct": 1.0,
+        "ioPct": 1.0
+      },
+      "descriptor": {
+        "path": "lap/project/c70077c4-15cd-4cb6-8222-d9763e36b5cd",
+        "sha256": "d5d364cdaa90a94f6724ec1dbc87ad787e65804566cb685938a4af26c7615667"
+      },
+      "links": [
+        {
+          "source": {
+            "aspect": "file",
+            "node": "fb5811ff-d7b1-4e76-a037-2456cca69ad7"
+          },
+          "target": {
+            "aspect": "model"
+          }
+        }
+      ]
+    },
+    "ef6aa953-a502-4a8e-af6d-ad524d2d4fa4": {
+      "kind": "file",
+      "comment": "Intermediate PortalGalaxy.fbx",
+      "descriptor": {
+        "path": "IU1dSpfC9Mo/PortalGalaxy.fbx",
+        "sha256": "74d0dfd7c0be894344576853b103dda5cb3912808f4b8f01ec308ab3caa4b5a2"
+      },
+      "name": "",
+      "links": [
+        {
+          "source": {
+            "aspect": "model",
+            "node": "c70077c4-15cd-4cb6-8222-d9763e36b5cd"
+          },
+          "target": {
+            "aspect": "file"
+          }
+        }
+      ]
+    },
+    "0f0d1768-58f7-4a6a-9c0f-030247ef7e47": {
+      "name": "PortalGalaxy.fbx",
+      "kind": "asset",
+      "comment": "Intermediate PortalGalaxy.fbx",
+      "asset": "lap/types/asset/model",
+      "links": [
+        {
+          "source": {
+            "aspect": "file",
+            "node": "ef6aa953-a502-4a8e-af6d-ad524d2d4fa4"
+          },
+          "target": {
+            "aspect": "model"
+          }
+        }
+      ],
+      "dirty": false,
+      "exclude": true
+    },
+    "5e1e5e7f-a836-4a98-86c4-a62bdd046fd0": {
+      "kind": "file",
+      "comment": "Space.png",
+      "descriptor": {
+        "path": "Galaxy/Portal/Space.png",
+        "sha256": "7941a669f658bc0826ec65b4f5eac33e0d13dcc9aa4a9879adaecfc58b285ba7"
+      },
+      "name": "Space.png",
+      "links": []
+    },
+    "ee28fa6c-6978-42a0-862b-b0c46a420dde": {
+      "kind": "processor",
+      "comment": "Passthru Space.png to texture.",
+      "expectedRuntime": 0.24979130000000002,
+      "systemWeights": {
+        "cpuCoreCount": 1.0,
+        "cpuPct": 1.0,
+        "gpuPct": 1.0,
+        "ioPct": 1.0
+      },
+      "descriptor": {
+        "path": "lap/project/ee28fa6c-6978-42a0-862b-b0c46a420dde",
+        "sha256": "ad304bf016083d6993dddc74efb54abec2b81c368e53269d680ab71ee177e318"
+      },
+      "links": [
+        {
+          "source": {
+            "aspect": "file",
+            "node": "5e1e5e7f-a836-4a98-86c4-a62bdd046fd0"
+          },
+          "target": {
+            "aspect": "image"
+          }
+        }
+      ]
+    },
+    "08823b60-1add-44b9-8a9d-5235628bda7f": {
+      "kind": "file",
+      "comment": "Intermediate Space.png",
+      "descriptor": {
+        "path": "Sis7fN2GCCg/Space.png",
+        "sha256": "7941a669f658bc0826ec65b4f5eac33e0d13dcc9aa4a9879adaecfc58b285ba7"
+      },
+      "name": "",
+      "links": [
+        {
+          "source": {
+            "aspect": "image",
+            "node": "ee28fa6c-6978-42a0-862b-b0c46a420dde"
+          },
+          "target": {
+            "aspect": "file"
+          }
+        }
+      ]
+    },
+    "66bdf182-7203-4568-bc6e-cd75a12edc1e": {
+      "name": "Space.png",
+      "kind": "asset",
+      "comment": "Intermediate Space.png",
+      "asset": "lap/types/asset/texture",
+      "links": [
+        {
+          "source": {
+            "aspect": "file",
+            "node": "08823b60-1add-44b9-8a9d-5235628bda7f"
+          },
+          "target": {
+            "aspect": "image"
+          }
+        }
+      ],
+      "dirty": false,
+      "exclude": true
+    },
+    "8b8c6f6c-e8eb-4551-bbd2-20bf0dda7632": {
+      "kind": "file",
+      "comment": "LuminPortalGalaxy.kmat",
+      "descriptor": {
+        "path": "Galaxy/Portal/LuminPortalGalaxy.kmat",
+        "sha256": "32ffab2a1561892652fa02c67b140e5588c24ee3a7f422c3d201b4b2f7380616"
+      },
+      "name": "LuminPortalGalaxy.kmat",
+      "links": []
+    },
+    "f4d7b97b-7b4e-46ef-9470-62ab17e7f5bb": {
+      "kind": "processor",
+      "comment": "Files Array Builder",
+      "expectedRuntime": 0.2430127,
+      "systemWeights": {
+        "cpuCoreCount": 1.0,
+        "cpuPct": 1.0,
+        "gpuPct": 1.0,
+        "ioPct": 1.0
+      },
+      "descriptor": {
+        "path": "lap/project/f4d7b97b-7b4e-46ef-9470-62ab17e7f5bb",
+        "sha256": "49ed7e2449aee322a8d34f10b93bc70a42d45f5017cd9a09cd2f302b99b61e8a"
+      },
+      "links": [
+        {
+          "source": {
+            "aspect": "file1",
+            "node": "8b8c6f6c-e8eb-4551-bbd2-20bf0dda7632"
+          },
+          "target": {
+            "aspect": "files"
+          }
+        }
+      ]
+    },
+    "7f3e9194-664f-4abc-94ac-ce51ae276261": {
+      "kind": "file",
+      "comment": "KMATs Files Intermediate LuminPortalGalaxy.kmat",
+      "descriptor": {
+        "path": "hGFnnzERaZQ/LuminPortalGalaxy.kmat.files",
+        "sha256": "32ffab2a1561892652fa02c67b140e5588c24ee3a7f422c3d201b4b2f7380616"
+      },
+      "name": "",
+      "links": [
+        {
+          "source": {
+            "aspect": "files",
+            "node": "f4d7b97b-7b4e-46ef-9470-62ab17e7f5bb"
+          },
+          "target": {
+            "aspect": "files"
+          }
+        }
+      ]
+    },
+    "88a2883b-74a7-4d55-b850-613b73b6ca69": {
+      "kind": "processor",
+      "comment": "KMATs to material munger",
+      "expectedRuntime": 0.25322100000000003,
+      "systemWeights": {
+        "cpuCoreCount": 1.0,
+        "cpuPct": 1.0,
+        "gpuPct": 1.0,
+        "ioPct": 1.0
+      },
+      "descriptor": {
+        "path": "lap/project/88a2883b-74a7-4d55-b850-613b73b6ca69",
+        "sha256": "23b579763f6e9888b2ef63f6dcfbf15e7f39b80e1f44423048d32cfd91b0ef71"
+      },
+      "links": [
+        {
+          "source": {
+            "aspect": "files",
+            "node": "7f3e9194-664f-4abc-94ac-ce51ae276261"
+          },
+          "target": {
+            "aspect": "material"
+          }
+        }
+      ]
+    },
+    "01ddd85f-3279-446b-86a7-3a67db15c4c5": {
+      "kind": "file",
+      "comment": "KMAT Intermediate LuminPortalGalaxy.kmat",
+      "descriptor": {
+        "path": "-1ur-XQ-hd4/LuminPortalGalaxy.kmat",
+        "sha256": "ee418423bc085cf224c1bcdf484a0cc1192d70f71c580674739d30a3de3a3691"
+      },
+      "name": "",
+      "links": [
+        {
+          "source": {
+            "aspect": "material",
+            "node": "88a2883b-74a7-4d55-b850-613b73b6ca69"
+          },
+          "target": {
+            "aspect": "material"
+          }
+        }
+      ]
+    },
+    "05b144c5-7693-4688-a69a-e93e3e541423": {
+      "name": "LuminPortalGalaxy.kmat",
+      "kind": "asset",
+      "comment": "Material",
+      "asset": "lap/types/asset/material",
+      "links": [
+        {
+          "source": {
+            "aspect": "material",
+            "node": "01ddd85f-3279-446b-86a7-3a67db15c4c5"
           },
           "target": {
             "aspect": "material"

@@ -1,0 +1,23 @@
+{
+  "id": "c70077c4-15cd-4cb6-8222-d9763e36b5cd",
+  "processor": "lap/types/processor/model_from_fbx",
+  "input": {
+    "model": [
+      {
+        "path": "Galaxy/Portal/PortalGalaxy.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "model": [
+      {
+        "path": "IU1dSpfC9Mo/PortalGalaxy.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

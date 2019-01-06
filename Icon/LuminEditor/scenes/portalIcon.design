@@ -3,7 +3,10 @@
   <property id="name" value="root"/>
   <property id="sceneName" value="portalIcon"/>
   <node name="PortalIcon" nodeTypeId="lumin.ui.portalIcon">
-    <property id="exportSettings"/>
+    <property id="exportSettings">
+      <property id="type" value="unreal"/>
+      <property id="destPath" value="E:\UE4_MagicLeap\GeodesicGalaxy\Icon\LuminEditor\out\icon"/>
+    </property>
     <property id="gravityWellProperties">
       <property id="boundaryShape">
         <property id="size"/>
@@ -62,8 +65,8 @@
       <property id="scale"/>
       <node name="portalmodel0" nodeTypeId="lumin.portalModel">
         <property id="materialAndModel">
-          <property id="material" value="1d78da44-4007-40e5-b31d-bc0c770e9491"/>
-          <property id="model" value="d5b82fc7-394b-4dab-936e-f5ceb4e0fd96"/>
+          <property id="material" value="05b144c5-7693-4688-a69a-e93e3e541423"/>
+          <property id="model" value="0f0d1768-58f7-4a6a-9c0f-030247ef7e47"/>
         </property>
         <property id="name" value="portalmodel0"/>
         <property id="position"/>
@@ -75,9 +78,9 @@
         </property>
         <property id="textures">
           <property id="0">
-            <property id="name" value="com_magicleap_iconsample_skysphere"/>
+            <property id="name" value="com_geodesic_GeodesicGalaxy_Space"/>
             <property id="textureType" value="albedo"/>
-            <property id="materialTexture" value="0d18dacf-502b-4758-b533-663ee19f350c"/>
+            <property id="materialTexture" value="66bdf182-7203-4568-bc6e-cd75a12edc1e"/>
           </property>
         </property>
       </node>

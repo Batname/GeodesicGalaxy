@@ -1,0 +1,23 @@
+{
+  "id": "ee28fa6c-6978-42a0-862b-b0c46a420dde",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "Galaxy/Portal/Space.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "Sis7fN2GCCg/Space.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}
