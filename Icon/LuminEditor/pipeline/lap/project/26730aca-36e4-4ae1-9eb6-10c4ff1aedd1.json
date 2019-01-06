@@ -1,0 +1,23 @@
+{
+  "id": "26730aca-36e4-4ae1-9eb6-10c4ff1aedd1",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "Galaxy/Model/PlanetWithRing.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "NIPnXJdFfBA/PlanetWithRing.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

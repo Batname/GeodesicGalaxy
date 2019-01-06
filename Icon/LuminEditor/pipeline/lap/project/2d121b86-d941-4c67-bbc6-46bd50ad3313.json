@@ -1,0 +1,23 @@
+{
+  "id": "2d121b86-d941-4c67-bbc6-46bd50ad3313",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "portal_icon/portal/portal.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "9-YkjDo4CGA/portal.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

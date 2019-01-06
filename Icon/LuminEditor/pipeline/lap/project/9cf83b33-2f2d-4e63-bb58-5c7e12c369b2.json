@@ -1,0 +1,23 @@
+{
+  "id": "9cf83b33-2f2d-4e63-bb58-5c7e12c369b2",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "Galaxy/Model/BigPlanet.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "nd24nW3feak/BigPlanet.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

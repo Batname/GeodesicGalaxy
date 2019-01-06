@@ -1,0 +1,13 @@
+<ResourceModel version="1">
+    <Model file="assets/portal.fbx/z8sNYFo3lLc/portal.fbx" name="assets/portal.fbx/z8sNYFo3lLc/portal.fbx"/>
+    <Texture file="assets/PlanetWithRing.png/NIPnXJdFfBA/PlanetWithRing.png" name="assets/PlanetWithRing.png/NIPnXJdFfBA/PlanetWithRing.png"/>
+    <Texture file="assets/model.png/u-GHKsFsryI/model.png" name="assets/model.png/u-GHKsFsryI/model.png"/>
+    <Model file="assets/model.fbx/V8LdJhRIizg/model.fbx" name="assets/model.fbx/V8LdJhRIizg/model.fbx"/>
+    <Texture file="assets/portal.png/9-YkjDo4CGA/portal.png" name="assets/portal.png/9-YkjDo4CGA/portal.png"/>
+    <Model file="assets/Galaxy.fbx/Wcd_XmzfD5w/Galaxy.fbx" name="assets/Galaxy.fbx/Wcd_XmzfD5w/Galaxy.fbx"/>
+    <Texture file="assets/Ring.png/DNG14tbywDA/Ring.png" name="assets/Ring.png/DNG14tbywDA/Ring.png"/>
+    <Texture file="assets/BigPlanet.png/nd24nW3feak/BigPlanet.png" name="assets/BigPlanet.png/nd24nW3feak/BigPlanet.png"/>
+    <Texture file="assets/SmallPlanet.png/Ez94DrcILi8/SmallPlanet.png" name="assets/SmallPlanet.png/Ez94DrcILi8/SmallPlanet.png"/>
+    <Material file="assets/LuminGalaxy.kmat/blv6HtzQ7L4/LuminGalaxy.kmat" name="assets/LuminGalaxy.kmat/blv6HtzQ7L4/LuminGalaxy.kmat"/>
+    <Material file="assets/portal.kmat/FiM-OhWAU1Y/portal.kmat" name="assets/portal.kmat/FiM-OhWAU1Y/portal.kmat"/>
+</ResourceModel>

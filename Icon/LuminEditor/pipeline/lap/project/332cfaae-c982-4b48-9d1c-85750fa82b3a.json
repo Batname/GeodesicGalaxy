@@ -1,0 +1,23 @@
+{
+  "id": "332cfaae-c982-4b48-9d1c-85750fa82b3a",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "Galaxy/Model/SmallPlanet.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "Ez94DrcILi8/SmallPlanet.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

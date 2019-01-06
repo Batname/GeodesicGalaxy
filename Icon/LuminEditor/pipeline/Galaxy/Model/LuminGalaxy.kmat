@@ -1,0 +1,27 @@
+{
+  "global": {
+    "name": "global"
+  },
+  "materials": [
+    {
+      "shaderName": "UnlitTextured",
+      "name": "com_geodesic_GeodesicGalaxy_PlanetRing",
+      "albedo": "assets/PlanetWithRing.png/NIPnXJdFfBA/PlanetWithRing.png"
+    },
+    {
+      "shaderName": "UnlitTextured",
+      "name": "com_geodesic_GeodesicGalaxy_Ring",
+      "albedo": "assets/Ring.png/DNG14tbywDA/Ring.png"
+    },
+    {
+      "shaderName": "UnlitTextured",
+      "name": "com_geodesic_GeodesicGalaxy_SmallPlanet",
+      "albedo": "assets/SmallPlanet.png/Ez94DrcILi8/SmallPlanet.png"
+    },
+    {
+      "shaderName": "UnlitTextured",
+      "name": "com_geodesic_GeodesicGalaxy_BIgPlanet",
+      "albedo": "assets/BigPlanet.png/nd24nW3feak/BigPlanet.png"
+    }
+  ]
+}

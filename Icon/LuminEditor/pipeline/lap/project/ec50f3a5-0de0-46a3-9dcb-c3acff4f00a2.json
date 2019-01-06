@@ -1,0 +1,23 @@
+{
+  "id": "ec50f3a5-0de0-46a3-9dcb-c3acff4f00a2",
+  "processor": "lap/types/processor/material_from_partial_kmats",
+  "input": {
+    "files": [
+      {
+        "path": "nB1DTvXitOI/LuminGalaxy.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "material": [
+      {
+        "path": "blv6HtzQ7L4/LuminGalaxy.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "adb02806-fca9-4645-80e7-be649f600f44",
+  "processor": "lap/types/processor/model_from_fbx",
+  "input": {
+    "model": [
+      {
+        "path": "Galaxy/Model/Galaxy.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "model": [
+      {
+        "path": "Wcd_XmzfD5w/Galaxy.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}
