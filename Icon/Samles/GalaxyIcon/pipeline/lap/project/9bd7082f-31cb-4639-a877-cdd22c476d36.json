@@ -1,0 +1,23 @@
+{
+  "id": "9bd7082f-31cb-4639-a877-cdd22c476d36",
+  "processor": "lap/types/processor/files_array_builder",
+  "input": {
+    "file": [
+      {
+        "path": "ufo/Model/Lumin_Model_UFO.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "files": [
+      {
+        "path": "QzYPpbUvfZA/Lumin_Model_UFO.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

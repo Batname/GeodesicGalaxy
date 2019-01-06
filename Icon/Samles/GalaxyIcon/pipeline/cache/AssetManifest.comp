@@ -1,0 +1,10 @@
+DATAS= \
+	assets/InsidePortal_SkySphere.fbx/BKI4dvzFQKk/InsidePortal_SkySphere.fbx : assets/InsidePortal_SkySphere.fbx/BKI4dvzFQKk/InsidePortal_SkySphere.fbx \
+	assets/InsidePortal_SkySphere.kmat/rFQAHDFJPy4/InsidePortal_SkySphere.kmat : assets/InsidePortal_SkySphere.kmat/rFQAHDFJPy4/InsidePortal_SkySphere.kmat \
+	assets/InsidePortal_SkySphere.png/OiJ62pcc31g/InsidePortal_SkySphere.png : assets/InsidePortal_SkySphere.png/OiJ62pcc31g/InsidePortal_SkySphere.png \
+	assets/Lumin_InsidePortal_SkySphere.kmat/JOBioZsxsZ0/Lumin_InsidePortal_SkySphere.kmat : assets/Lumin_InsidePortal_SkySphere.kmat/JOBioZsxsZ0/Lumin_InsidePortal_SkySphere.kmat \
+	assets/Lumin_Model_UFO.kmat/xofhijvmRdo/Lumin_Model_UFO.kmat : assets/Lumin_Model_UFO.kmat/xofhijvmRdo/Lumin_Model_UFO.kmat \
+	assets/Model_UFO.fbx/P2MtSM4qyMQ/Model_UFO.fbx : assets/Model_UFO.fbx/P2MtSM4qyMQ/Model_UFO.fbx \
+	assets/Model_UFO.kmat/NfBN7WRN4ss/Model_UFO.kmat : assets/Model_UFO.kmat/NfBN7WRN4ss/Model_UFO.kmat \
+	assets/Model_UFO_Albedo.png/MYpyFS3c9UY/Model_UFO_Albedo.png : assets/Model_UFO_Albedo.png/MYpyFS3c9UY/Model_UFO_Albedo.png \
+	assets/Model_UFO_Albedo_Ring.png/psXrU1QZmuM/Model_UFO_Albedo_Ring.png : assets/Model_UFO_Albedo_Ring.png/psXrU1QZmuM/Model_UFO_Albedo_Ring.png

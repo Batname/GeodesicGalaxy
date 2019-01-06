@@ -1,0 +1,23 @@
+{
+  "id": "f97176b5-0dce-43a8-91cb-2bcf3794ef01",
+  "processor": "lap/types/processor/material_from_partial_kmats",
+  "input": {
+    "files": [
+      {
+        "path": "D2EubPQCQLc/InsidePortal_SkySphere.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "material": [
+      {
+        "path": "rFQAHDFJPy4/InsidePortal_SkySphere.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

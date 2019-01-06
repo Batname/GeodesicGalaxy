@@ -1,0 +1,23 @@
+{
+  "id": "2a9cb526-d6c6-4561-8cae-c3e23885df12",
+  "processor": "lap/types/processor/material_from_partial_kmats",
+  "input": {
+    "files": [
+      {
+        "path": "5fv8lak1jGU/Model_UFO.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "material": [
+      {
+        "path": "NfBN7WRN4ss/Model_UFO.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

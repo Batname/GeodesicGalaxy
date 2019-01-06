@@ -1,0 +1,23 @@
+{
+  "id": "591e40cd-411e-48ab-90cd-1ce4e196131d",
+  "processor": "lap/types/processor/model_from_fbx",
+  "input": {
+    "model": [
+      {
+        "path": "ufo/Portal/InsidePortal_SkySphere.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "model": [
+      {
+        "path": "BKI4dvzFQKk/InsidePortal_SkySphere.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

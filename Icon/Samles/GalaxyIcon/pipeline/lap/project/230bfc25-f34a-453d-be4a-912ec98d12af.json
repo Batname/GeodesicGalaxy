@@ -1,0 +1,23 @@
+{
+  "id": "230bfc25-f34a-453d-be4a-912ec98d12af",
+  "processor": "lap/types/processor/material_from_partial_kmats",
+  "input": {
+    "files": [
+      {
+        "path": "WvQJK0sxmRU/portal.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "material": [
+      {
+        "path": "saLT8QSNM80/portal.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

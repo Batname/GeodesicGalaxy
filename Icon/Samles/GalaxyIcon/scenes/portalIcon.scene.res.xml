@@ -1,0 +1,8 @@
+<ResourceModel version="1">
+    <Material file="assets/portal.kmat/saLT8QSNM80/portal.kmat" name="assets/portal.kmat/saLT8QSNM80/portal.kmat"/>
+    <Texture file="assets/portal.png/dYe5i_nGRik/portal.png" name="assets/portal.png/dYe5i_nGRik/portal.png"/>
+    <Texture file="assets/model.png/-MSa4vaGi8s/model.png" name="assets/model.png/-MSa4vaGi8s/model.png"/>
+    <Model file="assets/model.fbx/64ebZtByeDQ/model.fbx" name="assets/model.fbx/64ebZtByeDQ/model.fbx"/>
+    <Material file="assets/model.kmat/LsSNB9rUVVs/model.kmat" name="assets/model.kmat/LsSNB9rUVVs/model.kmat"/>
+    <Model file="assets/portal.fbx/nMz9lBFzeSQ/portal.fbx" name="assets/portal.fbx/nMz9lBFzeSQ/portal.fbx"/>
+</ResourceModel>

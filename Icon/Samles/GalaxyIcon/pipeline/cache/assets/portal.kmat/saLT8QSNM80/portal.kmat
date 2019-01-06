@@ -1,0 +1,1 @@
+{"global": {"name": "global", "color": [1, 1, 1, 1], "blendmode": "Opaque"}, "materials": [{"name": "com_magicleap_iconsample_skysphere", "shaderName": "UnlitTextured", "blendmode": "Opaque", "albedo": "assets/portal.png/dYe5i_nGRik/portal.png"}]}

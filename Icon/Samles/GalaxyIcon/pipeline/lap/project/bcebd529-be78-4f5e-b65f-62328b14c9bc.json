@@ -1,0 +1,23 @@
+{
+  "id": "bcebd529-be78-4f5e-b65f-62328b14c9bc",
+  "processor": "lap/types/processor/files_array_builder",
+  "input": {
+    "file": [
+      {
+        "path": "ufo/Portal/InsidePortal_SkySphere.kmat",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "files": [
+      {
+        "path": "D2EubPQCQLc/InsidePortal_SkySphere.kmat.files",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

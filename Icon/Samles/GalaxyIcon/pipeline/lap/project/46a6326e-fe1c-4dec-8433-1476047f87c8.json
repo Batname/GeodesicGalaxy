@@ -1,0 +1,23 @@
+{
+  "id": "46a6326e-fe1c-4dec-8433-1476047f87c8",
+  "processor": "lap/types/processor/model_from_fbx",
+  "input": {
+    "model": [
+      {
+        "path": "ufo/Model/Model_UFO.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "model": [
+      {
+        "path": "P2MtSM4qyMQ/Model_UFO.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

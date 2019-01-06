@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ASCII"?>
+<design:rootNode xmlns:design="http://www.magicleap.com/uidesigner/rcp/document/design" name="root" nodeTypeId="lumin.root" modelId="lumin" version="1.11.1">
+  <property id="name" value="root"/>
+  <property id="sceneName" value="portalIcon"/>
+  <node name="PortalIcon" nodeTypeId="lumin.ui.portalIcon">
+    <property id="exportSettings"/>
+    <property id="gravityWellProperties">
+      <property id="boundaryShape">
+        <property id="size"/>
+        <property id="offset"/>
+      </property>
+    </property>
+    <property id="hoverPosition">
+      <property id="z" value="0.03"/>
+    </property>
+    <property id="iconSize" value="ExtraLarge"/>
+    <property id="name" value="PortalIcon"/>
+    <property id="position"/>
+    <property id="rotation"/>
+    <property id="scale"/>
+    <property id="text" value="GGalaxy"/>
+    <node name="model" nodeTypeId="lumin.ui.iconModelRoot">
+      <property id="materialAndModel">
+        <property id="material" value="1df742ce-ed8c-4fad-83ab-a5e0f5b6061e"/>
+        <property id="model" value="6cb00e58-7273-49fe-8aa9-b14d025da83d"/>
+      </property>
+      <property id="name" value="model"/>
+      <property id="position"/>
+      <property id="rotation"/>
+      <property id="scale">
+        <property id="x" value="0.01"/>
+        <property id="y" value="0.01"/>
+        <property id="z" value="0.01"/>
+      </property>
+      <property id="textures">
+        <property id="0">
+          <property id="name" value="com_magicleap_iconcreation_Model_UFO_Ring_Mat"/>
+          <property id="textureType" value="albedo"/>
+          <property id="materialTexture" value="a0add5e0-3a7d-4f7a-98b1-97f7150b488b"/>
+        </property>
+        <property id="1">
+          <property id="name" value="com_magicleap_iconcreation_Model_UFO_Ring_Mat"/>
+          <property id="textureType" value="albedo"/>
+          <property id="materialTexture" value="68a10ebd-0ec0-4d5e-acf7-00adc6851a37"/>
+        </property>
+      </property>
+    </node>
+    <node name="iconBackgroundModel" nodeTypeId="lumin.ui.iconBackgroundModel">
+      <property id="name" value="iconBackgroundModel"/>
+      <property id="position"/>
+      <property id="rotation"/>
+      <property id="scale"/>
+      <node name="portalmodel0" nodeTypeId="lumin.portalModel">
+        <property id="materialAndModel">
+          <property id="material" value="9fa78979-4eb1-4555-b89c-87d40e757f8a"/>
+          <property id="model" value="46314083-e195-4cc7-a269-599c4794fb7e"/>
+        </property>
+        <property id="name" value="portalmodel0"/>
+        <property id="position"/>
+        <property id="rotation"/>
+        <property id="scale">
+          <property id="x" value="0.01"/>
+          <property id="y" value="0.01"/>
+          <property id="z" value="0.01"/>
+        </property>
+        <property id="textures">
+          <property id="0">
+            <property id="name" value="com_magicleap_iconsample_skysphere"/>
+            <property id="textureType" value="albedo"/>
+            <property id="materialTexture" value="9f510649-2d7b-4538-b2b3-24f6a6816255"/>
+          </property>
+        </property>
+      </node>
+    </node>
+  </node>
+</design:rootNode>

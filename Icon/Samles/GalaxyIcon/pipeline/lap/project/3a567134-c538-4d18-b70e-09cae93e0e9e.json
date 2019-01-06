@@ -1,0 +1,23 @@
+{
+  "id": "3a567134-c538-4d18-b70e-09cae93e0e9e",
+  "processor": "lap/types/processor/texture_from_png",
+  "input": {
+    "image": [
+      {
+        "path": "ufo/Model/Model_UFO_Albedo.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "image": [
+      {
+        "path": "MYpyFS3c9UY/Model_UFO_Albedo.png",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

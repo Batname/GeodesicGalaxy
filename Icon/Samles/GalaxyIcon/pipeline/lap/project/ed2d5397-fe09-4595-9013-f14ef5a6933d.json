@@ -1,0 +1,23 @@
+{
+  "id": "ed2d5397-fe09-4595-9013-f14ef5a6933d",
+  "processor": "lap/types/processor/model_from_fbx",
+  "input": {
+    "model": [
+      {
+        "path": "portal_icon/portal/portal.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "output": {
+    "model": [
+      {
+        "path": "nMz9lBFzeSQ/portal.fbx",
+        "sha256": ""
+      }
+    ]
+  },
+  "options": [
+    
+  ]
+}

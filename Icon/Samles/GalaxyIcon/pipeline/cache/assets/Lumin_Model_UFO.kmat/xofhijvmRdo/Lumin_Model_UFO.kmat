@@ -1,0 +1,1 @@
+{"global": {"name": "global"}, "materials": [{"name": "com_magicleap_iconcreation_Model_UFO_Mat", "shaderName": "UnlitTextured", "albedo": "assets/Model_UFO_Albedo.png/MYpyFS3c9UY/Model_UFO_Albedo.png"}, {"name": "com_magicleap_iconcreation_Model_UFO_Ring_Mat", "shaderName": "UnlitTextured", "albedo": "assets/Model_UFO_Albedo_Ring.png/psXrU1QZmuM/Model_UFO_Albedo_Ring.png"}]}
